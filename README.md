@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
-<h3 align="center">I make websites, apps and games</h3>
+<h3 align="center">I make websites</h3>
 - 👋 Hi, I’m @vk833
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...javaScript
