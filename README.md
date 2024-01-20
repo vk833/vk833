@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">I make websites</h3>
-- 👋 Hi, I’m @vk833
+- 👋 Hi, I’m Varun
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...javaScript
 - 💞️ I’m looking to collaborate on ...Teams
